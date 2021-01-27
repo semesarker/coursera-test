@@ -1,0 +1,73 @@
+html{
+    scroll-behavior: smooth;
+}
+body{}
+h1,h2,h3,h4,h5,h6{}
+
+
+.hr-style{
+    border: 2px solid brown;
+    width: 150px;
+    margin-bottom: 60px;
+}
+
+.icon-style{
+    width: 150px;
+    height: auto;
+}
+
+#product{
+    padding: 7% 10%;
+    background-color: brown;
+}
+.carousel-item{
+    padding: 100px;
+    font-style: italic;
+   
+}
+.img-style{
+   width: 320px;
+   height: auto;
+
+}
+.carousel-indicators{
+   margin-bottom: -40px;
+}
+
+
+
+
+
+
+
+
+.card{
+    padding: 20px;
+    box-shadow: 2px 6px 5px;
+}
+
+.phone{
+    width: 200px;
+    height: auto;
+}
+
+.pic{
+    padding: 20px;
+}
+.pic-1,.pic-2,.pic-3{
+    padding: 20px;
+    box-shadow: 2px 6px 5px black;
+ 
+}
+.pic-div1 {
+   
+    margin-top: 200px;
+    margin-right: 100px;
+}
+.pic-small-1{
+    margin-bottom: 50px;
+}
+.pic-div-3{
+    margin-top: 200px;
+}
+
